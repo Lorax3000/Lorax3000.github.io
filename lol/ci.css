@@ -1,0 +1,23 @@
+.ci {
+
+    text-align: center;
+    color: #666041;
+    
+    
+    }
+    
+    /* Заголовок для header */
+    header {
+        background-color: #666041;
+        color: #f3e7a2;
+        padding: 40px 20px;
+        text-align: center;
+    }
+    
+    /* Основной стиль для body */
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f3e7a2;
+    }
